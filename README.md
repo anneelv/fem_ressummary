@@ -1,8 +1,8 @@
 ![Preview](./public/desktop-preview.jpg)
 
-# Frontend Mentor - Product Preview Card component solution
+# Frontend Mentor - Result Summary component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Result Summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -41,12 +41,13 @@ This is a screenshot of the page when viewed through Firefox browser, mobile vie
 
 ### What I learned
 
-In this project I learned to style both desktop view and mobile view in one go using the ```sm md lg``` screen breakpoint. It is still confusing but I think I started to get the hang of it.
+This project help me to get more comfortable in creating the frontend design for desktop view along with the mobile view using Next.js framework. I am creating the code for the desktop view first before adding the view for mobile. As I was viewing the changes through Firefox browser till the end, I just noticed that the design becomes weird again when viewed in Microsoft Edge browser.
+However, this time I am getting the hang of using div tag attributes such as flex and everything else. Moreover, I think this time I created the frontend design without much attributes that I don't know what the use for.
 
 
 ### Continued development
 
-I would like to change several things such as the smaller price that is should be in a different position and make it more responsive when viewed through a different browser.
+I would like to investigate more on how to make the design consistent in whatever browser is used. Moreover, I  would like to use the json data next time to ma eke the page as "dynamic" rather than hard coding.
 
 ## Author
 
