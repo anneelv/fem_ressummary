@@ -30,6 +30,7 @@ This is a screenshot of the page when viewed through Firefox browser, mobile vie
 ### Links
 
 - Solution URL: [Github](https://github.com/anneelv/fem_ressummary)
+- Deployment: [Vercel](fem-result-summary.vercel.app)
 
 ## My process
 
